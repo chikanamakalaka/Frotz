@@ -16,8 +16,7 @@ Reference code and Unix port currently maintained by David Griffith.
 - Distributed under the GNU Public License.
 
 
-For information on what Interactive Fiction is and how to play it, see the
-file "HOW_TO_PLAY".
+For information on what Interactive Fiction is and how to play it, see the file "HOW_TO_PLAY".
 
 For installation information, see the file "INSTALL".
 
@@ -25,31 +24,23 @@ For update history, see the file "Changelog".
 
 For information on known bugs in Frotz, see the file "BUGS".
 
-For bug reports, check the Unix Frotz website to see if there's a new
-release.  If not, send your bug report to me at dave@661.org.
+For bug reports, check the Unix Frotz website to see if there's a new release.  If not, send your bug report to me at dave@661.org.
 
 For information on porting Frotz to new platforms, see the file "PORTING".
 
-For those who are involved in creating and distributing binary packages
-containing Frotz and including Frotz in BSD-style ports/pkgsrc trees,
-see the file "PACKAGING".
+For those who are involved in creating and distributing binary packages containing Frotz and including Frotz in BSD-style ports/pkgsrc trees, see the file "PACKAGING".
 
-The latest information on and source code of Unix Frotz is available at 
-https://github.com/DavidGriffith/frotz
+The latest information on and source code of Unix Frotz is available at https://github.com/DavidGriffith/frotz
 
-The latest release of Unix Frotz is available from the Interactive
-Fiction Archive at:
-http://www.ifarchive.org/if-archive/infocom/interpreters/frotz/
-	frotz-<version>.tar.gz
-and
-ftp://ftp.ifarchive.org/if-archive/infocom/interpreters/frotz/
-	frotz-<version>.tar.gz
+The latest release of Unix Frotz is available from the Interactive Fiction Archive at:
+http://www.ifarchive.org/if-archive/infocom/interpreters/frotz/frotz-<version>.tar.gz
+and ftp://ftp.ifarchive.org/if-archive/infocom/interpreters/frotz/frotz-<version>.tar.gz
 
 
 The Interactive Fiction Archive has several mirrors which may be better
 choices depending on where you live.  Here is a partial list.
 
-in the USA:         http://mirror.ifarchive.org/
+In the USA:         http://mirror.ifarchive.org/
                     http://ifarchive.jmac.org/
                     http://ifmirror.russotto.net/
                     http://ifarchive.flavorplex.com/
@@ -59,15 +50,15 @@ in the USA:         http://mirror.ifarchive.org/
                     http://www.ifarchive.info/
                     http://ifarchive.ifreviews.org/
                     http://mirrors.ibiblio.org/interactive-fiction/
-in Ireland:         http://ifarchive.heanet.ie/
-in Austria:         http://ifarchive.giga.or.at/
+In Ireland:         http://ifarchive.heanet.ie/
+In Austria:         http://ifarchive.giga.or.at/
 
 FTP based mirrors are also available:
 
-in the USA:         ftp://ifarchive.ifreviews.org/if-archive/
-in Austria:         ftp://ftp.giga.or.at/pub/ifarchive/
-in Finland:         ftp://ftp.funet.fi/pub/mirrors/ftp.ifarchive.org/if-archive/
+In the USA:         ftp://ifarchive.ifreviews.org/if-archive/
+In Austria:         ftp://ftp.giga.or.at/pub/ifarchive/
+In Finland:         ftp://ftp.funet.fi/pub/mirrors/ftp.ifarchive.org/if-archive/
 
 And via Gopher:
 
-in the USA:         gopher://gopher.feedle.net/1/if-archive/
+In the USA:         gopher://gopher.feedle.net/1/if-archive/
